@@ -17,8 +17,8 @@ name    -> admin2<br>
 password -> admin123<br>
 
 <h3 align="center">Project Screenshoots</h3>
-<p align = center><img src="/screenshots/Vidly-1.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal6.JPG" width="400" style="max-width:100%;">
-<img src="/screenshots/Vidly-2.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal5.JPG" width="400" style="max-width:100%;">
-<img src="/screenshots/Vidly-3.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal2.PNG" width="400" style="max-width:100%;">
-<img src="/screenshots/Vidly-4.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal2.PNG" width="400" style="max-width:100%;">
+<p align = center><img src="/Screenshots/Vidly-1.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal6.JPG" width="400" style="max-width:100%;">
+<img src="/Screenshots/Vidly-2.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal5.JPG" width="400" style="max-width:100%;">
+<img src="/Screenshots/Vidly-3.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal2.PNG" width="400" style="max-width:100%;">
+<img src="/Screenshots/Vidly-4.PNG" width="400" style="max-width:100%;"><img src="/screenshots/dal2.PNG" width="400" style="max-width:100%;">
 </p>
