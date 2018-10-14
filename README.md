@@ -8,9 +8,8 @@ Admin can perform crud operation that means, he/she can add,edit or update or de
 
 <br>
 **For viewing User and admin Panel...** <br>
-**To view admin Panel...** <br>
+**For viewing Admin Panel...** <br>
 --
-
 name    -> Ashiq<br>
 password -> ashiq123<br>
 
