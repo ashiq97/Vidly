@@ -17,3 +17,7 @@ name    -> admin2<br>
 password -> admin123<br>
 
 <h3 align="center">Project Screenshoots</h3>
+
+<p align = center><img src="/Screenshots/vidly-1.PNG" width="400" style="max-width:100%;"><img src="/Screenshots/Vidly-2.PNG" width="400" style="max-width:100%;">
+<img src="/Screenshots/vidly-3.PNG" width="400" style="max-width:100%;"><img src="/Screenshots/Vidly-4.PNG" width="400" style="max-width:100%;">
+</p>
